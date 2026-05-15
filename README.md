@@ -61,4 +61,4 @@ Understanding the attack vector is only half the battle. The technical report ou
 
 For a deep dive into the exact commands, payload configurations, footprinting results, and step-by-step methodology, please read the full academic report:
 
-👉 **[View the Full Lab Report (PDF)]((https://github.com/user-attachments/files/27807177/CSCI369_PROJECT_8952978.pdf))**
+👉 **[View the Full Lab Report (PDF)](https://github.com/user-attachments/files/27807177/CSCI369_PROJECT_8952978.pdf)**
