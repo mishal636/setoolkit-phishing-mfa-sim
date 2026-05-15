@@ -56,6 +56,7 @@ Understanding the attack vector is only half the battle. The technical report ou
 
 ---
 
+
 ## 📄 Technical Documentation
 
 For a deep dive into the exact commands, payload configurations, footprinting results, and step-by-step methodology, please read the full academic report:
